@@ -7,6 +7,10 @@ import (
 
 var n int = 0
 
+func pausita() {
+	
+}
+
 func P() {
 	var temp int
 	for i := 0; i < 10; i++ {
